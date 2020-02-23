@@ -1,19 +1,20 @@
-body {
-    margin-bottom: 30px;
-}
-
-
-p{
-    background-color: gainsboro;
-    font-size: 20px;
-}
-
-ul {
-    background-color: green;
-    font-size: 18px;
+p {
+    background-color: royalblue;
 }
 
 li {
+    color:darkgrey;
+}
+
+.branches{
+    font-size: 25px;
+    margin: 2px solid;
+    color: black
+}
+
+.branches li{
+    color: black;
+}
+.branches p {
     background-color: red;
-    font-size: 18px;
 }
